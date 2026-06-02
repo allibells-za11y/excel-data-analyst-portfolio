@@ -1,4 +1,4 @@
-# Data Analyst Portfolio — Alli Bello
+# Data Analyst Portfolio - Alli Bello
 
 A structured, evidence-based portfolio documenting hands-on analytical 
 work across four layers of data analyst competency — built alongside 
@@ -22,7 +22,7 @@ Sectors: UK Civil Service · NHS · Regulated financial services
 
 ## The four-layer learning stack
 
-### Layer 1 — Microsoft Excel (Complete)
+### Layer 1 - Microsoft Excel (Complete)
 *From foundational formulas to business intelligence-level modelling*
 
 | Module | Dataset | Key skills |
@@ -39,7 +39,7 @@ demonstrated through regression analysis and a one-page executive
 summary recommending a discount cap policy.
 
 
-### Layer 2 — Power BI (In progress)
+### Layer 2 - Power BI (In progress)
 *From first visual to enterprise-grade published solution*
 
 | Module | Dataset | Key skills |
@@ -57,7 +57,7 @@ averaged 71.4% nationally in 2023–24 against a 95% target. December
 anomaly detection, Key Influencers analysis, and a formal paginated 
 report output built in Power BI Report Builder.
 
-### Layer 3 — SQL (Planned — Month 7)
+### Layer 3 - SQL (Planned - Month 7)
 *Independent data extraction from relational databases*
 
 | Module | Dataset | Key skills |
@@ -69,7 +69,7 @@ report output built in Power BI Report Builder.
 | M5 — Capstone | data.gov.uk open datasets | End-to-end workflow: SQL extraction → Power BI → published report |
 
 
-### Layer 4 — Python (Planned — Month 12)
+### Layer 4 - Python (Planned - Month 12)
 *Automation, statistical modelling, and machine learning foundations*
 
 | Module | Dataset | Key skills |
@@ -83,7 +83,7 @@ report output built in Power BI Report Builder.
 
 ## Certifications in progress
 
-- **PL-300 / DA-100** — Microsoft Power BI Data Analyst  
+- **PL-300 / DA-100** - Microsoft Power BI Data Analyst  
   Target: completion at end of Layer 2 (Month 10)
 
 ## Existing certifications
@@ -112,10 +112,10 @@ ITIL Foundation V3
 
 Every folder in this repository follows the same structure:
 
-- `README.md` — what the module covers and key findings
-- `screenshots/` — evidence of completed work
-- `datasets/` — links to publicly available source data (files 
-  not uploaded due to size — all sources are freely accessible)
+- `README.md` - what the module covers and key findings
+- `screenshots/` - evidence of completed work
+- `datasets/` - links to publicly available source data (files 
+  not uploaded due to size - all sources are freely accessible)
 
 All datasets used are publicly available with no licence restrictions. 
 Source links are documented in each module README.
